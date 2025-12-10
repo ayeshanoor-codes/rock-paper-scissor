@@ -8,7 +8,7 @@
 /* MAIN CONTAINER */
 body {
     height: 100vh;
-    background: linear-gradient(135deg, #6a89cc, #b8e994);
+    background: linear-gradient(135deg, #5675b9, #96c277);
     display: flex;
     flex-direction: column;
     justify-content: center;
